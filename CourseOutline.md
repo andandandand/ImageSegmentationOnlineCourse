@@ -23,7 +23,7 @@
 
 ### Related courses
 
-+ Intro to PyTorch (in the list of requested courses)
++ Intro to PyTorch (currently in the list of requested courses)
 + [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
 
 ## Course Description
