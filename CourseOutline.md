@@ -41,7 +41,7 @@ Deep learning methods use data to train neural network algorithms to do a variet
    * Lesson 1.2 -  Measuring segmentation quality
      * A learning objective: evaluate the quality and tradeoofs of different segmentations of brain tumors through precision, recall, especificity, and the f1-measure
      
-     ![Ground truth image](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/TumorSim%20ground%20truth.png =440x)
+     ![Ground truth image](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/TumorSim%20ground%20truth.png)
      
        * Comparing a segmentation against a ground truth
         * Building a confusion matrix: Counting true positives, false positives, true negatives, false negatives
@@ -97,7 +97,7 @@ Deep learning methods use data to train neural network algorithms to do a variet
         * The softmax function
   
   * Lesson 3.2 - U-net for biomedical semantic segmentation
-  ![U-net architecture](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png =450x)
+  ![U-net architecture](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png)
       * A learning objective: Segment cell nuclei images from Kaggle's data science bowl using U-net
           * The U-net architecture
           * Skip connections with concatenations
@@ -109,7 +109,7 @@ Deep learning methods use data to train neural network algorithms to do a variet
 
    * Lesson 3.1 - Using generative adversarial networks to segment scenery
      * A learning objective: create a GAN to segment and generate images.
-     ![GAN](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/gan.PNG =360x)
+     ![GAN](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/gan.PNG)
         * Understanding GAN architecture
           * Generative vs Discriminative Networks 
         * Vanishing gradients
