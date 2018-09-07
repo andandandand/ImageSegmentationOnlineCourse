@@ -33,12 +33,12 @@ Deep learning methods use data to train neural network algorithms to do a variet
 ## Chapter 1 - Low level segmentation
 
 ![K-medoids brain clustering](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/seeded%20segmentation.PNG)
-   * Lesson 1.1 - Segmenting biomedical images through clustering
+   * **Lesson 1.1 - Segmenting biomedical images through clustering**
      * A learning objective: Create and compare oversegmented brain tumor images in magnetic resonance with K-means, K-medoids, and SLIC.
         * Spectral clustering of images 
         * How the number of clusters affects the result
         * Oversegmentation as dimensionality reduction
-   * Lesson 1.2 -  Measuring segmentation quality
+   * **Lesson 1.2 -  Measuring segmentation quality**
      * A learning objective: evaluate the quality and tradeoofs of different segmentations of brain tumors through precision, recall, especificity, and the f1-measure
      
      ![Ground truth image](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/TumorSim%20ground%20truth.png)
@@ -47,7 +47,7 @@ Deep learning methods use data to train neural network algorithms to do a variet
         * Building a confusion matrix: Counting true positives, false positives, true negatives, false negatives
         * Precision vs recall tradeoffs
         * The f1-measure (aka Dice Coefficient) as a metric of segmentation quality of brain tumors
-   * Lesson 1.3 - Watershed and the GrowCut cellular automaton
+   * **Lesson 1.3 - Watershed and the GrowCut cellular automaton**
      * A learning objective: segment multispectral satellite images from LANDSAT using unsupervised seed selection for GrowCut and the watershed transform algorithms.
      
      ![GrowCut](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/GrowCut.png)
@@ -62,7 +62,7 @@ Deep learning methods use data to train neural network algorithms to do a variet
    
 ## Chapter 2 - Semantic Segmentation
 
-   * Lesson 2.1 - Labeling images with Fuly Convolutional Neural Networks
+   * **Lesson 2.1 - Labeling images with Fuly Convolutional Neural Networks**
      * A learning objective: Segment cats from images using deep neural networks
 ![Segment cat](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/segment%20cat.PNG)     
         * Brief intro to PyTorch
@@ -78,7 +78,7 @@ Deep learning methods use data to train neural network algorithms to do a variet
   
   
  ## Chapter 3 - Using encoder-decoder architectures for segmentation
-   * Lesson 3.1 - Creating encoder-decoder architectures for segmentation
+   * **Lesson 3.1 - Creating encoder-decoder architectures for segmentation**
    
    ![segnet-roads](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/Segnet-roads.PNG)
      
@@ -96,7 +96,7 @@ Deep learning methods use data to train neural network algorithms to do a variet
         * The transposed convolution
         * The softmax function
   
-  * Lesson 3.2 - U-net for biomedical semantic segmentation
+  * **Lesson 3.2 - U-net for biomedical semantic segmentation**
   ![U-net architecture](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png)
       * A learning objective: Segment cell nuclei images from Kaggle's data science bowl using U-net
           * The U-net architecture
@@ -107,7 +107,7 @@ Deep learning methods use data to train neural network algorithms to do a variet
           
 ## Chapter 4 - Segmenting images with Generative Adversarial Networks
 
-   * Lesson 3.1 - Using generative adversarial networks to segment scenery
+   * **Lesson 3.1 - Using generative adversarial networks to segment scenery**
      * A learning objective: create a GAN to segment and generate images.
      ![GAN](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/gan.PNG)
         * Understanding GAN architecture
