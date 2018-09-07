@@ -6,7 +6,11 @@
 + Instructor at the National Institute of Bioengineering (INABIO) [Universidad Central de Venezuela](http://www.ucv.ve/)
 + CTO at [The Chain](http://thechain.tech/)
 
-emails (use only one): antonio.rueda.toicen@gmail.com, atoicen@thinkful.com, antonio.rueda@ucv.ve, antonio.rueda.toicen@algorithmicnaturelab.org
+**emails** (please use only one): 
++ antonio.rueda.toicen@gmail.com
++ atoicen@thinkful.com
++ antonio.rueda@ucv.ve
++ antonio.rueda.toicen@algorithmicnaturelab.org
 
 **homepage: www.digital-spaceti.me**
 
