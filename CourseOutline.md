@@ -81,6 +81,7 @@ Deep learning methods use data to train neural network algorithms to do a variet
    * Lesson 3.1 - Creating encoder-decoder architectures for segmentation
    
    ![segnet-roads](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/Segnet-roads.PNG)
+     
      * A learning objective: Segment images of roads using Segnet.
         * Architecture of the VGG16 network
         * Using an encoder-decoder architecture
