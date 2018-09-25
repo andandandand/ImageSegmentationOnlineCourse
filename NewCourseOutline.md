@@ -113,7 +113,7 @@ emails (use only one): antonio.rueda.toicen@gmail.com, atoicen@thinkful.com, ant
   + Replacing each entry with an $𝑛 \times 𝑛$ matrix filled with the original entry (NumPy drill).
   + Replacing each entry with an $𝑛 \times 𝑛$ matrix with the original entry in the upper left and the other squares set to 0. [1506.02753]   (NumPy drill)
     
-![Transposed convolution](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/image_folder_3/Deconv_exp.PNG)  
+![Transposed convolution](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/transposed-convolutions.PNG)  
   + Computing a transposed convolution with tf.nn.conv2d_transpose
 
 ## Part 4: Understanding U-net part 3
